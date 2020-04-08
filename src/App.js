@@ -1,11 +1,11 @@
 import React from 'react';
- import './App.css';
+import './App.css';
+import Header from "./Components/Nav-Bar/Navigation"
 
 function App() {
   return (
     <div className="App">
-      <h1>navigation</h1>
-      <h1>navigation</h1>
+      <Header /> 
     </div>
   );
 }
