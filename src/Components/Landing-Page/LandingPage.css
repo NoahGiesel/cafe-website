@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+ 
+
+
+
+
+.landingpage {  
+    height: 100%; 
+    width: 100%;
+    text-align: center;
+    display: grid;  
+    grid-template-rows: 1fr 2fr;  
+    padding: 0;  
+    font-weight: bold; 
+}
+
+.first-element  { 
+    margin : 2rem 0  ; 
+}
+
+
+.first-element p   { 
+    font-weight: normal;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 1rem;
+}
+
+
+img { 
+    margin: 0 auto;
+    height: 160%;
+}
+
+img:hover { 
+    cursor: default;
+}

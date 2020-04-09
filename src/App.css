@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+
 html , body { 
   background-color: aliceblue;
+  font-family: 'Patrick Hand', cursive; 
+  letter-spacing: .1em;
+  background-color: rgba(255, 250, 246, 0.972); 
+   
 }
 
 
 .App {
-  
+   
 }
