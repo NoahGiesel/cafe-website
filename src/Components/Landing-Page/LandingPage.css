@@ -10,15 +10,19 @@
     width: 100%;
     text-align: center;
     display: grid;  
+    grid-gap: 1rem;
     grid-template-rows: 1fr 2fr;  
     padding: 0;  
     font-weight: bold; 
 }
 
 .first-element  { 
-    margin : 2rem 0  ; 
+    margin : 0   0  ; 
 }
 
+.first-element  h1{
+    font-size: 4rem;
+}
 
 .first-element p   { 
     font-weight: normal;
