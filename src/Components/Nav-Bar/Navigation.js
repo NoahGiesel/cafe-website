@@ -5,7 +5,7 @@ function Navigation() {
  
  
   return (
-    <div className="navigation">
+    <div className="navigation" >
       <img alt="logo_img" src={require("../../img/logo-site.png")} /> 
         {/* img needs require for webpack recognizing the img */ }
         <div className="menu effect">
